@@ -1,0 +1,10 @@
+train: D:\A-Project\B\detection\yolov8\livestock\livestock_datasets\images\train
+val: D:\A-Project\B\detection\yolov8\livestock\livestock_datasets\images\val
+
+
+##/datasets/dataset/images/test
+# number of classes
+nc: 7
+
+# class names
+names: ['cat', 'dog', 'pig', 'sheep', 'cattle', 'duck', 'chick']
